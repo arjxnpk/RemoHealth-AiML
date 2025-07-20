@@ -13,7 +13,7 @@ The goal of this module is to analyze vital sign data (e.g., **heart rate**, **S
 ## 📊 Dataset
 
 - Source: [Kaggle - Remote Health Monitoring Dataset](#) 
-- Features: `heart_rate`, `oxygen_saturation`, `body_temp'.
+- Features: `heart_rate`, `oxygen_saturation`, `body_temp`.
 - Target: `Health_Status` (Normal, Abnormal)
 
 ---
